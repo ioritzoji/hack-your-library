@@ -1,0 +1,216 @@
+{
+  "products": [
+    {
+      "id": "10004",
+      "name": "Git & GitHub Explained",
+      "overview": "A clear guide to version control using Git and GitHub, covering commits, branches, merges, and collaboration in real development environments",
+      "long_description": "Git & GitHub Explained is a clear and approachable guide to understanding the tools that power modern software development. Designed for beginners and those looking to strengthen their skills, this book demystifies Git’s inner workings and shows how GitHub brings powerful collaboration to life. Through concise explanations and practical examples, readers will gain a deep understanding of version control, team workflows, and best practices used by professionals around the world.",
+      "price": 9,
+      "image_local": "/assets/images/10004.webp",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": "10005",
+      "name": "Mastering Python Fundamentals",
+      "overview": "Build a solid foundation in Python by learning its syntax, control structures, data types, and how to apply them to solve real problems.",
+      "long_description": "Mastering Python Fundamentals is the essential guide for anyone eager to dive into Python programming. This book offers a comprehensive and structured approach to learning the core concepts of Python, from basic syntax to more advanced programming techniques. Written with clarity and precision, it is perfect for beginners, as well as those looking to strengthen their understanding of Python’s foundational principles.",
+      "price": 29,
+      "image_local": "/assets/images/10005.webp",
+      "rating": 5,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": true
+    },
+    {
+      "id": "10003",
+      "name": "Cybersecurity Essentials for Developers",
+      "overview": "Protect your code and apps from common threats. This guide teaches secure coding practices and how to think like a security expert while developing software.",
+      "long_description": "Cybersecurity Essentials for Developers is a must-have guide for developers who want to understand and apply essential security practices in their development workflow. With practical tips and real-world examples, this book teaches you how to identify and mitigate security risks, protect sensitive data, and ensure your applications are secure from the ground up. It covers secure coding practices, common vulnerabilities like SQL injection and XSS, authentication and encryption techniques, and how to integrate security into your development and testing processes.",
+      "price": 29,
+      "image_local": "/assets/images/10003.webp",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": true
+    },
+    {
+      "id": "10006",
+      "name": "Malware & Threat Detection",
+      "overview": "Learn how different types of malware operate, how they infect systems, and how to build detection and response strategies to mitigate risks.",
+      "long_description": "Malware & Threat Detection is a comprehensive guide that dives deep into the world of cyber threats, focusing on how to detect and analyze malware effectively. Designed for security professionals and enthusiasts, this book covers the key techniques, tools, and methodologies used to identify and combat malware in various environments. From understanding the fundamentals of malware to advanced detection strategies, readers will learn how to spot hidden threats, perform malware analysis, and develop proactive defenses.",
+      "price": 19,
+      "image_local": "/assets/images/10006.webp",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": true
+    },
+    {
+      "id": "10007",
+      "name": "Network Security Basics",
+      "overview": "An easy-to-follow introduction to securing networks using firewalls, VPNs, and monitoring tools to detect and prevent unauthorized access.",
+      "long_description": "Network Security Basics is a crucial guide for anyone looking to understand the essential principles of securing computer networks. This book covers the core concepts and practices required to protect networks from unauthorized access, attacks, and data breaches. With clear explanations and real-world examples, it explores key topics like firewalls, encryption, intrusion detection systems, and secure network protocols.",
+      "price": 9,
+      "image_local": "/assets/images/10007.webp",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": "10001",
+      "name": "Ethical Hacking Fundamentals",
+      "overview": "Learn the core principles of ethical hacking, vulnerability scanning, and penetration testing. Perfect for beginners looking to enter the world of cybersecurity with confidence.",
+      "long_description": "Ethical Hacking Fundamentals is a comprehensive guide for anyone looking to understand the principles of ethical hacking and penetration testing. This book introduces the essential techniques used by ethical hackers to identify vulnerabilities and secure systems against malicious attacks. Covering topics such as network scanning, vulnerability assessment, exploitation, and post-exploitation, it provides a solid foundation for those interested in pursuing a career in cybersecurity. Through practical examples and real-world scenarios, readers will learn how to conduct ethical hacking assessments, understand hacker methodologies, and use tools and frameworks to enhance security. ",
+      "price": 39,
+      "image_local": "/assets/images/10001.webp",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": "10008",
+      "name": "Building DApps with Web3.js",
+      "overview": "Learn to create decentralized applications by connecting smart contracts to frontend apps using Web3.js and MetaMask.",
+      "long_description": "Building DApps with Web3.js is a comprehensive guide for developers interested in creating decentralized applications (DApps) on the Ethereum blockchain using Web3.js. This book covers the entire process of building DApps, from understanding the fundamentals of blockchain and smart contracts to integrating with the Web3.js library for seamless interaction with the Ethereum network. With step-by-step tutorials and hands-on examples, readers will learn how to set up the development environment, connect to Ethereum nodes, interact with smart contracts, and build user-friendly interfaces.",
+      "price": 29,
+      "image_local": "/assets/images/10008.webp",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": "10009",
+      "name": "Solidity for Beginners",
+      "overview": "A practical guide to the Solidity programming language used for writing secure smart contracts on the Ethereum blockchain.",
+      "long_description": "Solidity for Beginners is the perfect introduction to learning Solidity, the programming language used to build smart contracts on the Ethereum blockchain. This book is designed for absolute beginners, offering a clear, step-by-step approach to understanding the core concepts of blockchain development. Through simple explanations and practical examples, readers will learn how to write, deploy, and test smart contracts, as well as interact with the Ethereum network.",
+      "price": 19,
+      "image_local": "/assets/images/10009.webp",
+      "rating": 2,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": "10010",
+      "name": "Full-Stack Web Development",
+      "overview": "Learn how to build complete web applications from front to back using HTML, CSS, JavaScript, Node.js, and databases.",
+      "long_description": "Full-Stack Web Development is a comprehensive guide to mastering both the frontend and backend of web development. This book takes you through the entire process of building dynamic, fully-functional web applications from scratch. Covering a wide range of technologies, including HTML, CSS, JavaScript, Node.js, Express, and databases, this guide ensures that you gain a deep understanding of both the client-side and server-side aspects of web development.",
+      "price": 29,
+      "image_local": "/assets/images/100010.webp",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": true
+    },
+    {
+      "id": "10011",
+      "name": "Machine Learning with Python",
+      "overview": "Learn how to build and train machine learning models using Python libraries like Scikit-learn, Pandas, and NumPy.",
+      "long_description": "Machine Learning with Python is an essential guide for developers, data scientists, and enthusiasts looking to dive into the world of machine learning. This book offers a hands-on approach to understanding and implementing machine learning algorithms using Python, one of the most popular programming languages for data science and AI. Through practical examples and step-by-step tutorials, readers will learn how to work with various machine learning models, from linear regression to decision trees and neural networks. The book also covers essential libraries like NumPy, pandas, and scikit-learn, enabling readers to manipulate data, train models, and evaluate their performance.",
+      "price": 29,
+      "image_local": "/assets/images/10011.webp",
+      "rating": 5,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": true
+    },
+    {
+      "id": "10012",
+      "name": "AI Fundamentals",
+      "overview": "A beginner-friendly introduction to artificial intelligence concepts, including machine learning, neural networks, and real-world applications.",
+      "long_description": "AI Fundamentals is an accessible and comprehensive guide designed to introduce readers to the foundational concepts of artificial intelligence. Whether you're a student, developer, or simply curious about AI, this book offers a practical and engaging entry point into the field. Covering essential topics such as machine learning, neural networks, natural language processing, and computer vision, it explains how these technologies work and how they're applied in real-world scenarios.",
+      "price": 19,
+      "image_local": "/assets/images/10012.webp",
+      "rating": 5,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": true
+    },
+    {
+      "id": "10013",
+      "name": "Clean Code Practices",
+      "overview": "Discover how to write readable, maintainable, and efficient code by following principles of clean architecture, naming conventions, and refactoring.",
+      "long_description": "Clean Code Practices is a must-read for developers who want to improve the quality, readability, and maintainability of their code. This book provides a comprehensive guide to the principles and techniques behind writing clean, efficient code that stands the test of time. It covers essential practices such as meaningful naming conventions, code organization, modularity, and refactoring. Through real-world examples, readers will learn how to reduce complexity, avoid common pitfalls, and ensure that their code is not only functional but also easy to understand and modify.",
+      "price": 9,
+      "image_local": "/assets/images/10013.webp",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": true
+    },
+    {
+      "id": "10014",
+      "name": "TypeScript in Action",
+      "overview": "Go beyond JavaScript by learning TypeScript's type system, interfaces, and advanced features to write safer and scalable code.",
+      "long_description": "TypeScript in Action is the ultimate guide for developers looking to enhance their JavaScript skills by mastering TypeScript. This book provides a hands-on approach to understanding TypeScript’s powerful features, from static typing to advanced concepts like interfaces, generics, and decorators. Through practical examples and step-by-step tutorials, readers will learn how to integrate TypeScript into their projects, improve code quality, and increase scalability and maintainability.",
+      "price": 19,
+      "image_local": "/assets/images/10014.webp",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": "10002",
+      "name": "JavaScript for Problem Solvers",
+      "overview": "Master JavaScript by solving real-world coding challenges and building interactive projects. Designed for aspiring developers who want to sharpen their logic and practical skills.",
+      "long_description": "JavaScript for Problem Solvers is a practical guide designed for developers who want to master JavaScript by solving real-world problems. This book goes beyond basic syntax and dives deep into problem-solving techniques, teaching you how to use JavaScript to tackle challenges across a variety of domains. With clear explanations and hands-on examples, you'll learn how to approach coding problems systematically, optimize solutions, and think like a problem solver.",
+      "price": 19,
+      "image_local": "/assets/images/10002.webp",
+      "rating": 4,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": "10015",
+      "name": "Data Structures & Algorithms for Developers",
+      "overview": "Master the foundational tools every programmer needs, with practical explanations of arrays, trees, graphs, sorting, and searching techniques.",
+      "long_description": "Data Structures & Algorithms for Developers is a comprehensive guide that explores the foundational concepts of data structures and algorithms, specifically designed for developers who want to optimize their coding skills. This book covers a wide range of essential topics, from arrays and linked lists to trees, graphs, and sorting algorithms, offering a solid understanding of how to choose and implement the right data structures and algorithms for real-world challenges.",
+      "price": 29,
+      "image_local": "/assets/images/10015.webp",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": "10001",
+      "name": "Ethical Hacking Fundamentals",
+      "overview": "Learn the core principles of ethical hacking, vulnerability scanning, and penetration testing. Perfect for beginners looking to enter the world of cybersecurity with confidence.",
+      "price": 39,
+      "image_local": "/assets/images/10001.webp",
+      "rating": 5,
+      "best_seller": true
+    },
+    {
+      "id": "10002",
+      "name": "JavaScript for Problem Solvers",
+      "overview": "Master JavaScript by solving real-world coding challenges and building interactive projects. Designed for aspiring developers who want to sharpen their logic and practical skills.",
+      "price": 19,
+      "image_local": "/assets/images/10002.webp",
+      "rating": 5,
+      "best_seller": false
+    },
+    {
+      "id": "10003",
+      "name": "Cybersecurity Essentials for Developers",
+      "overview": "Protect your code and apps from common threats. This guide teaches secure coding practices and how to think like a security expert while developing software.",
+      "price": 29,
+      "image_local": "/assets/images/10003.webp",
+      "rating": 5,
+      "best_seller": true
+    }
+  ],
+  "orders": [],
+  "users": [
+  ]
+}
