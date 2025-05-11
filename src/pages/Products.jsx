@@ -14,7 +14,7 @@ export const Products = () => {
 
   useEffect(() => {
       const fetchFeatured = async () => {
-        const response = await fetch(`${import.meta.env.VITE_APP_HOST}/products`)
+        const response = await fetch("https://hack-your-library-892ab0acfd08.herokuapp.com/products")
         const json = await response.json()
 
         if (searchTerm) {

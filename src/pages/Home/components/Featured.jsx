@@ -6,7 +6,7 @@ export const Featured = () => {
 
   useEffect(() => {
     const fetchFeatured = async () => {
-      const response = await fetch(`${import.meta.env.VITE_APP_HOST}/featured_products`)
+      const response = await fetch("https://hack-your-library-892ab0acfd08.herokuapp.com/featured_products")
       const json = await response.json()
       setData(json)
     }
